@@ -1,0 +1,20 @@
+{
+  "name": "04_less-base64",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.dev.config.js",
+  "scripts": {
+    "dev": "webpack --config ./webpack.dev.config.js",
+    "prod": "webpack --config ./webpack.prod.config.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "css-loader": "^1.0.1",
+    "file-loader": "^2.0.0",
+    "less": "^3.9.0",
+    "less-loader": "^4.1.0",
+    "style-loader": "^0.23.1",
+    "url-loader": "^1.1.2"
+  }
+}

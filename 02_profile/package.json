@@ -1,0 +1,12 @@
+{
+  "name": "profile_02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "dev": "webpack --config ./webpack.dev.config.js",
+    "prod":"webpack --config ./webpack.prod.config.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
